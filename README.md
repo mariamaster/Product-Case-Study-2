@@ -1,7 +1,7 @@
-# Product-Case-Study-2
+# Product Case Study 2
 AmazonNEXT Design Challenge - Fall 2023 Product Case Study.
 
-# *"Uber Reimagined for the Elderly"*
+# "Uber Reimagined for the Elderly"
 
 Uber's mission to make transportation more accessible for all has prompted the exploration of our research question: “How to revolutionize the experience for the elderly population?”, specifically those aged 65 and above. 
 
